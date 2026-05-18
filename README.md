@@ -21,3 +21,17 @@ Sistema de monitoramento em tempo real que coleta, processa e armazena dados de 
 3. Visualizar dados em tempo real
 
 ## 📊 Estrutura de Dados
+struct Sensor {
+float temperatura;
+float vibração;
+timestamp tempo;
+}
+
+## 📚 Conceitos Aplicados
+- ADC (Conversor Analógico-Digital)
+- Tratamento de sinais
+- Estruturas em C
+- Manipulação de arquivos
+
+## 📝 Autor
+Gabriel Kempfer - 2024/2025
